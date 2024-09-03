@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eantorbim.github.io/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/app/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/assets/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/css/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/includes/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/item/sitemap.html.gz
+Sitemap: https://eantorbim.github.io/src/sitemap.html.gz
